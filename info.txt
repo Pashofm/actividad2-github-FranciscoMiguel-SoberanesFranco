@@ -1,0 +1,4 @@
+Nombre alumno: Francisco Miguel Soberanes Franco
+Fecha: 3 de febrero de 2025
+Objetivo de la actividad: Aprender a clonar un repositorio y poder modificarlo creando nuevas branch para ello y realizando push para la modificación del repositorio remoto
+¿Que es un Pull Request? Es una solicitud para a la hora de querer realizar un push, si te permiten realizar los cambios el creador del repositorio remoto de caulquier plataforma como github, gitlabs, etc. 
